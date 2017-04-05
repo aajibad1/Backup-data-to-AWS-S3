@@ -1,7 +1,8 @@
 # Backup-data-to-AWS-S3
 #WHAT I DID 
-#create a bucket 
-turn on the versioning 
+
+  create a bucket 
+ turn on the versioning 
 create a bucket lifecycle policy 
 
 command to push  an abject to the bucket 
