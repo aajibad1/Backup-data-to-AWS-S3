@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-dbuser="ccdcedu_adedapoa"
-dbpass="Adebayo@007"
-host="ccdc.edu"
-dbname="ccdcedu_eds"
-S3BUCKET="ccdcedu-backup"
+dbuser=""
+dbpass=""
+host=""
+dbname=""
+S3BUCKET=""
 backuppath="/home/adedapo/Desktop/ccdcedu_edsBACKUP"
 date=$(date +"%d-%b-%y-%H:%M")
 #set file permission
